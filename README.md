@@ -1,70 +1,83 @@
 # Hi 👋, I'm Sommay Dewat
 
-### Aspiring AI/ML Developer | Python Enthusiast | Open Source Learner
+### Aspiring AI/ML Engineer | Python Developer | NLP & Data Science Enthusiast
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 BBA Student exploring the world of AI & Machine Learning
-- 🌱 Currently learning Python, Data Science, NLP & Deep Learning
-- 💻 Building real-world AI/ML and automation projects
-- 📚 Passionate about problem solving and continuous learning
-- 🎯 Goal: Become an AI Engineer & contribute to impactful projects
+I am a BBA student transitioning into Artificial Intelligence and Machine Learning with a strong passion for building practical, real-world solutions using Python and AI technologies.
+
+I am currently focused on developing my skills in:
+
+- 🤖 Machine Learning
+- 🧠 Natural Language Processing (NLP)
+- 📊 Data Science & Analytics
+- 💻 Python Development
+- 🌐 Open Source & GitHub Collaboration
 
 ---
 
 ## 🛠 Tech Stack
 
-### Programming Languages
-- Python
-- SQL
-- HTML/CSS
+### Languages & Tools
 
-### AI/ML Skills
-- Machine Learning
-- Natural Language Processing (NLP)
-- Data Analysis
-- Deep Learning Basics
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
-### Tools & Platforms
-- Git & GitHub
-- Jupyter Notebook
-- Google Colab
-- VS Code
+### AI/ML Interests
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Science-0A66C2?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 📌 Current Focus
 
-- 🤖 AI/ML Projects
-- 📊 Data Science Learning
-- 🧠 NLP & Deep Learning
-- 🌐 Open Source Contribution
-- 🚀 Building My Developer Portfolio
+- Building AI/ML portfolio projects
+- Learning Deep Learning concepts
+- Improving Python problem-solving skills
+- Exploring NLP applications
+- Preparing for AI/ML internships
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Areas
 
-### 🔹 NLP Text Analysis
-Text cleaning, tokenization, stopword removal and keyword extraction using Python.
-
-### 🔹 Student Management System
-Python-based beginner project for managing student records.
-
-### 🔹 AI/ML Notes Repository
-Structured notes and practical examples for Machine Learning & Deep Learning.
+- 🔹 Machine Learning Projects
+- 🔹 NLP & Text Processing
+- 🔹 Python Automation
+- 🔹 Data Science Notebooks
+- 🔹 Deep Learning Practice
 
 ---
 
-## 📈 GitHub Goals for 2026
+## 📊 GitHub Stats
 
-- Build 10+ AI/ML Projects
-- Contribute to Open Source
+![Sommay's GitHub stats](https://github-readme-stats.vercel.app/api?username=SommayDewat&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SommayDewat&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 2026 Goals
+
+- Build 10+ AI/ML projects
 - Strengthen Data Structures & Python
-- Create a Professional Portfolio
-- Learn Advanced Deep Learning
+- Contribute to Open Source
+- Create a strong AI portfolio
+- Secure an AI/ML internship
 
 ---
 
@@ -74,6 +87,6 @@ Structured notes and practical examples for Machine Learning & Deep Learning.
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Motto
 
-> “Every expert was once a beginner who never stopped learning.”
+> “Consistency and continuous learning build great engineers.”
