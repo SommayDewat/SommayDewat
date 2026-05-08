@@ -63,15 +63,13 @@ I am currently focused on developing my skills in:
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SommayDewat&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SommayDewat&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
+- Machine Learning Projects
+- NLP & Text Processing
+- Python Development
+- Deep Learning Learning Path
+- Open Source Contribution
 
 ---
 
