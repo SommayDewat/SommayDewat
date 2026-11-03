@@ -184,13 +184,16 @@ I enjoy transforming raw data into meaningful insights, building analytical dash
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SommayDewat&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+<!-- GitHub Profile Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SommayDewat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SommayDewat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<!-- Top Programming Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SommayDewat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
-<br/>
+<br/><br/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=SommayDewat&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<!-- GitHub Streak -->
+<img width="90%" src="https://streak-stats.demolab.com/?user=SommayDewat&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -198,10 +201,9 @@ I enjoy transforming raw data into meaningful insights, building analytical dash
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SommayDewat&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SommayDewat&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity"/>
 
 </div>
-
 ---
 
 ## 🎓 Education & Certifications
