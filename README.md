@@ -1,64 +1,94 @@
 # SOMMAY DEWAT
-### DATA ANALYST | BUSINESS INTELLIGENCE | PYTHON & SQL
+### Data Analyst | Business Intelligence | Data Visualization
 
-**Transforming Data into Insights | Driving Data-Informed Decisions**
+<p align="center">
+  <b>Turning Raw Data into Meaningful Insights & Business Decisions</b>
+  <br/>
+  📍 India &nbsp; | &nbsp; 📊 Data Analytics &nbsp; | &nbsp; 🐍 Python &nbsp; | &nbsp; 🗄️ SQL
+</p>
 
-📍 India &nbsp; | &nbsp; 💼 Open to Data Analyst Opportunities
-
-[LinkedIn](https://www.linkedin.com/in/sommay-dewat/) · [GitHub](https://github.com/SommayDewat)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sommay-dewat/">LinkedIn</a> •
+  <a href="https://github.com/SommayDewat">GitHub</a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Profile
 
-I'm a **BBA graduate passionate about Data Analytics and Business Intelligence**, with hands-on experience in Python, SQL, data visualization, statistical analysis, and Machine Learning.
+I am a **BBA graduate specializing in Data Analytics, Business Intelligence, and Python-based analytical solutions.**
 
-I enjoy exploring datasets, identifying meaningful patterns, understanding business problems, and transforming raw information into actionable insights.
+I enjoy transforming complex datasets into clear business insights through data cleaning, exploratory analysis, statistical methods, SQL querying, and visualization.
 
-**My analytical interests:**
-- Data Analysis & Exploratory Data Analysis (EDA)
-- SQL & Relational Database Management
+My approach combines business understanding with analytical thinking to identify trends, measure performance, and support data-driven decisions.
+
+**Areas of Expertise**
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Transformation
+- SQL & Database Management
 - Business Intelligence & Reporting
-- Data Visualization & Dashboard Development
-- Statistical Analysis & Hypothesis Testing
-- Customer & Business Analytics
-- Predictive Analytics & Machine Learning
+- Statistical Analysis
+- Customer & Retail Analytics
+- Data Visualization
+- Predictive Analytics
 
 ---
 
-## 🛠️ Technical Skills
+## ⚙️ Technical Skills
 
-| Category | Skills & Technologies |
+*Self-assessed visual indicators of current hands-on familiarity. These are not formal proficiency scores.*
+
+### Programming & Data Manipulation
+
+| Technology | Skill Level |
 |:---|:---|
-| Programming | Python, SQL |
-| Data Analysis | Pandas, NumPy, Data Cleaning, EDA |
-| Visualization | Power BI, Excel, Matplotlib, Seaborn, Plotly |
-| Database | MySQL, SQLite, MySQL Workbench |
-| Statistics | Descriptive Statistics, Hypothesis Testing |
-| Machine Learning | Scikit-learn, Random Forest, Model Evaluation |
-| AI & NLP | TensorFlow, NLP, Deep Learning, Computer Vision |
-| Development Tools | Git, GitHub, Jupyter, VS Code, Streamlit |
+| Python | `█████` Core |
+| Pandas | `█████` Core |
+| NumPy | `████` Applied |
+| SQL | `████` Applied |
+
+### Business Intelligence & Visualization
+
+| Technology | Skill Level |
+|:---|:---|
+| Power BI | `████` Applied |
+| Microsoft Excel | `████` Applied |
+| Matplotlib | `████` Applied |
+| Seaborn | `████` Applied |
+| Plotly | `███` Developing |
+
+### Analytics & Artificial Intelligence
+
+| Technology | Skill Level |
+|:---|:---|
+| Exploratory Data Analysis | `█████` Core |
+| Statistical Analysis | `████` Applied |
+| Machine Learning | `███` Developing |
+| Natural Language Processing | `███` Developing |
+| Deep Learning | `███` Developing |
+
+### Development Tools
+
+`MySQL` · `SQLite` · `Jupyter Notebook` · `VS Code` · `Git` · `GitHub` · `Streamlit`
 
 ---
 
-## 📊 Data Analytics Snapshot
+## 📊 Data Analytics Dashboard
 
-A snapshot of the datasets and analytical work I've handled.
+<div align="center">
 
-| Analytical Area | Data Processed |
-|:---|---:|
-| Retail Transaction Analytics | 541K+ transactions |
-| Telecom Customer Analytics | 7,043 records |
-| Customer Segmentation | 4,338 customers |
-| Customer Review Analytics | 5,000+ reviews |
+| ANALYTICS METRIC | DATA HANDLED |
+|:---:|:---:|
+| 🛒 Retail Transactions | **541K+** |
+| 👥 Telecom Customers | **7,043** |
+| 📈 Segmented Customers | **4,338** |
+| 💬 Customer Reviews | **5,000+** |
 
----
+</div>
 
-## 📈 Analytical Insights
+### 📉 Customer Churn Distribution
 
-### Customer Retention Analysis
-
-An example of business insights generated through customer churn analysis.
+Based on my telecom customer analysis.
 
 ```mermaid
 pie showData
@@ -66,6 +96,8 @@ pie showData
     "Retained Customers" : 5174
     "Churned Customers" : 1869
 ```
+
+### Business Performance Indicators
 
 | KPI | Result |
 |:---|---:|
@@ -75,77 +107,81 @@ pie showData
 | Retention Rate | 73.46% |
 | Churn Rate | 26.54% |
 | Average Monthly Charges | 64.76 |
+| Average Tenure | 32.37 months |
 
-### My Data Analytics Workflow
+### 🔎 Customer Analytics Insight
 
-```mermaid
-flowchart TD
-    A["Business Problem"] --> B["Data Collection"]
-    B --> C["Data Cleaning"]
-    C --> D["Exploratory Data Analysis"]
-    D --> E["Statistical Analysis"]
-    E --> F["Data Visualization"]
-    F --> G["Business Insights"]
-    G --> H["Actionable Recommendations"]
-```
+The telecom dataset shows that approximately **1 in 4 customers churned**. This makes customer retention an important area for further analysis.
 
 ---
 
-## 🎯 Core Competencies
+## 📊 My Analytical Approach
 
-| Analytical Competency | Focus |
-|:---|:---|
-| Data Preparation | Cleaning, validation and transformation |
-| Exploratory Analysis | Patterns, trends and relationships |
-| SQL Analysis | Filtering, joins, aggregation and subqueries |
-| Business Intelligence | KPIs, dashboards and reporting |
-| Statistical Thinking | Statistical testing and interpretation |
-| Predictive Analytics | Regression and machine learning |
-| Communication | Business insights and reporting |
+```mermaid
+flowchart TD
+    A["01. Business Understanding"] --> B["02. Data Collection"]
+    B --> C["03. Data Cleaning"]
+    C --> D["04. Exploratory Data Analysis"]
+    D --> E["05. Statistical Analysis"]
+    E --> F["06. Data Visualization"]
+    F --> G["07. Business Insights"]
+    G --> H["08. Recommendations"]
+```
+
+### Analytics Lifecycle
+
+| Stage | Activities | Tools |
+|:---|:---|:---|
+| Data Collection | Data sourcing, importing | Python, SQL |
+| Data Preparation | Cleaning, validation | Pandas, NumPy |
+| Analysis | EDA, statistics | Python, SQL |
+| Visualization | Charts, dashboards | Power BI, Matplotlib |
+| Communication | Reports, insights | Excel, Power BI |
 
 ---
 
 ## 🎓 Education & Certifications
 
-**Education**
+**Bachelor of Business Administration (BBA)**  
+Maharishi Dayanand University, Rohtak
 
-- Bachelor of Business Administration (BBA) — Maharishi Dayanand University, Rohtak.
+**Artificial Intelligence Programming Assistant (AIPA)**  
+Training in collaboration with Microsoft India
 
-**Certifications & Training**
-
-- Artificial Intelligence Programming Assistant (AIPA) — Training in collaboration with Microsoft India.
-- EF SET English Certificate — C2 Proficient.
-
----
-
-## 🌱 Currently Improving
-
-- Advanced SQL and query optimization
-- Power BI, DAX and data modeling
-- Advanced Excel and reporting
-- Business statistics and analytical reasoning
-- Python for advanced data analysis
-- Business Intelligence and data storytelling
+**EF SET English Certificate**  
+C2 Proficient
 
 ---
 
-## 🤝 Let's Connect
+## 🎯 Current Learning Focus
 
-I'm always interested in connecting with data analysts, business intelligence professionals, recruiters, and technology enthusiasts.
-
-| Platform | Link |
+| Learning Area | Objective |
 |:---|:---|
-| GitHub | [SommayDewat](https://github.com/SommayDewat) |
-| LinkedIn | [Connect with me](https://www.linkedin.com/in/sommay-dewat/) |
-
-**Open to:** Data Analyst Roles · Data Analytics Internships · Business Intelligence Opportunities
+| Advanced SQL | Complex queries, CTEs, window functions |
+| Power BI | DAX, data modeling, dashboard design |
+| Advanced Excel | PivotTables, lookup functions, reporting |
+| Statistics | Hypothesis testing, interpretation |
+| Python | Advanced analytical techniques |
+| Business Intelligence | KPI development and data storytelling |
 
 ---
 
-<div align="center">
+## 🤝 Professional Interests
 
-### DATA → ANALYSIS → INSIGHTS → IMPACT
+- Data Analyst
+- Business Intelligence Analyst
+- Data Analytics Intern
+- Reporting & Visualization
+- Business Analytics
 
-*"Making data meaningful, one insight at a time."*
+---
 
-</div>
+<p align="center">
+
+### CONNECT • ANALYZE • INNOVATE
+
+**Let's turn data into decisions.**
+
+[LinkedIn](https://www.linkedin.com/in/sommay-dewat/) · [GitHub](https://github.com/SommayDewat)
+
+</p>
